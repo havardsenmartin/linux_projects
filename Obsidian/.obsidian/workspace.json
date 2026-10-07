@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "aaddfd5a79fa1ff4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef2f51c308d563c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4755243f23264b57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religion og etikk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Religion og etikk"
+            }
+          },
+          {
+            "id": "7f974de15ebe2f43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kristendom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kristendom"
+            }
+          },
+          {
+            "id": "563e5bd6594170a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MITTSVAR_RELIGION_CHATOPPGGAVE_STEG1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MITTSVAR_RELIGION_CHATOPPGGAVE_STEG1"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b61743080ef96972",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e310d47ff166d85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd1c5743df662e6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Filutforsker"
+            }
+          },
+          {
+            "id": "b53c91d35287b78f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e72a92301d8b8fa2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "62616baf207a383c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdaab3f9e9e8ccd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a6e82af022ff1df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "testNode1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for testNode1"
+            }
+          },
+          {
+            "id": "398b1ee16afc4af1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "testNode1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from testNode1"
+            }
+          },
+          {
+            "id": "119227d19ccb0dd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "960723757245d10f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "221f307fa9282fff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "testNode1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of testNode1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Åpne hurtigåpner": false,
+      "graph:Åpne grafvisning": false,
+      "canvas:Opprett ny Canvas": false,
+      "daily-notes:Åpne dagens notat": false,
+      "templates:Sett inn mal": false,
+      "command-palette:Åpne kommandovelger": false,
+      "bases:Opprett ny base": false
+    }
+  },
+  "active": "563e5bd6594170a9",
+  "lastOpenFiles": [
+    "Kristendom.md",
+    "Religion og etikk.md",
+    "MITTSVAR_RELIGION_CHATOPPGGAVE_STEG1.md",
+    "CHAT hvordan øve til muntlig samtale.md",
+    "ChatgtpReligionsamtaleSteg1.md",
+    "TODO.md",
+    "Anotherfile.md",
+    "Newfile.md",
+    "Untitled.base",
+    "Writing a shader.md",
+    "Arch Linux notes.md",
+    "Untitled.canvas"
+  ]
+}

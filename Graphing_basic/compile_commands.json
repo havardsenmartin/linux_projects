@@ -1,0 +1,32 @@
+[
+  {
+    "file": "src/main.c",
+    "arguments": [
+      "/usr/bin/gcc",
+      "-w",
+      "-std=c11",
+      "-Iinclude",
+      "-c",
+      "src/main.c",
+      "-o",
+      "src/main.o"
+    ],
+    "directory": "/home/martin/Projects/Binary_search_tree",
+    "output": "src/main.o"
+  },
+  {
+    "file": "src/node.c",
+    "arguments": [
+      "/usr/bin/gcc",
+      "-w",
+      "-std=c11",
+      "-Iinclude",
+      "-c",
+      "src/node.c",
+      "-o",
+      "src/node.o"
+    ],
+    "directory": "/home/martin/Projects/Binary_search_tree",
+    "output": "src/node.o"
+  }
+]
