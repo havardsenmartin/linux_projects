@@ -1,0 +1,1 @@
+testing^[Dette er en footnote]. 

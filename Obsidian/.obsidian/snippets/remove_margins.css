@@ -1,0 +1,11 @@
+.wideish-view {
+    --file-line-width: 900px; }
+
+.wide-view {
+    --file-line-width: 1200px; }
+
+.full-view {
+    --file-line-width: 100%; }
+
+body {
+    --file-line-width: 1200px; /* default RLL is 700px */ }

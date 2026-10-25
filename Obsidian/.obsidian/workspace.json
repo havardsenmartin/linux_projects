@@ -4,53 +4,113 @@
     "type": "split",
     "children": [
       {
-        "id": "ef2f51c308d563c9",
+        "id": "abc712af22bbcf5c",
         "type": "tabs",
         "children": [
           {
-            "id": "4755243f23264b57",
+            "id": "fa161a2358997b5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Religion og etikk.md",
+                "file": "I3TMA4400 informert svar.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Religion og etikk"
+              "title": "I3TMA4400 informert svar"
             }
           },
           {
-            "id": "7f974de15ebe2f43",
+            "id": "52c56d15b31ebb44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kristendom.md",
+                "file": "TMA4400.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Kristendom"
+              "title": "TMA4400"
             }
           },
           {
-            "id": "563e5bd6594170a9",
+            "id": "27cc351e0aa9d4a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MITTSVAR_RELIGION_CHATOPPGGAVE_STEG1.md",
+                "file": "test09 TMA4400.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "MITTSVAR_RELIGION_CHATOPPGGAVE_STEG1"
+              "title": "test09 TMA4400"
             }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "5f90da8d48686c51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bcc261f3a505a65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test09 TMA4400.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "test09 TMA4400"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,10 +130,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Filutforsker"
+              "title": "Files"
             }
           },
           {
@@ -107,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "62616baf207a383c",
@@ -186,16 +247,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testNode1.md",
+                "file": "Innlevering 3 ligningsløsning (numerisk analyse) (2).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of testNode1"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "5711dc70d66fe241",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -204,28 +276,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Åpne hurtigåpner": false,
-      "graph:Åpne grafvisning": false,
-      "canvas:Opprett ny Canvas": false,
-      "daily-notes:Åpne dagens notat": false,
-      "templates:Sett inn mal": false,
-      "command-palette:Åpne kommandovelger": false,
-      "bases:Opprett ny base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "563e5bd6594170a9",
+  "active": "3bcc261f3a505a65",
   "lastOpenFiles": [
+    "Pasted image 20261025111005.png",
+    "test09 TMA4400.md",
+    "Pasted image 20261024220052.png",
+    "TMA4400.md",
+    "Pasted image 20261024212238.png",
+    "I3TMA4400 informert svar.md",
+    "ERT16 Op-ampens gyldne regler.md",
+    "Pasted image 20261024184737.png",
+    "Pasted image 20261024162658.png",
+    "Pasted image 20261024162645.png",
+    "Pasted image 20261024161902.png",
+    "Pasted image 20261024161303.png",
+    "Pasted image 20261024160258.png",
+    "OP-amps.md",
+    "Matte.md",
+    "Innlevering 3 ligningsløsning (numerisk analyse) (2).md",
+    "Pasted image 20261024134423.png",
+    "Pasted image 20261024133805.png",
+    "Untitled 1.base",
+    "sdjfklsdjlfk.md",
+    "Innlevering 3 ligningsløsning (numerisk analyse) (1).md",
+    "Innlevering 3 ligningsløsning.md",
+    "First spaced repetition deck.md",
+    "Stack10.md",
     "Kristendom.md",
-    "Religion og etikk.md",
-    "MITTSVAR_RELIGION_CHATOPPGGAVE_STEG1.md",
-    "CHAT hvordan øve til muntlig samtale.md",
-    "ChatgtpReligionsamtaleSteg1.md",
-    "TODO.md",
-    "Anotherfile.md",
-    "Newfile.md",
     "Untitled.base",
+    "Uten tittel.base",
+    "TODO.md",
+    "Religion og etikk.md",
     "Writing a shader.md",
+    "test08 tma4400.md",
+    "Uten tittel",
+    "Newfile.md",
+    "ChatgtpReligionsamtaleSteg1.md",
+    "CHAT hvordan øve til muntlig samtale.md",
     "Arch Linux notes.md",
+    "MITTSVAR_RELIGION_CHATOPPGGAVE_STEG1.md",
+    "Anotherfile.md",
     "Untitled.canvas"
   ]
 }

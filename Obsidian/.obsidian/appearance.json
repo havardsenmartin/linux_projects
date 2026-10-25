@@ -1,6 +1,10 @@
 {
   "accentColor": "",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Tokyo Night",
   "baseFontSize": 24,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "margins",
+    "remove_margins"
+  ]
 }

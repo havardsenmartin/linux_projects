@@ -1,0 +1,12 @@
+/* TO GET RID OF THE MARGINS IN EDITING MODE*/
+
+.view-content > .markdown-source-view.mod-cm6 > .cm-editor > .cm-scroller {
+    margin: 0px -20px 0px -20px;
+}
+
+
+/* TO GET RID OF YOUR SCROLLBAR*/
+.body:not(.hider-scrollbars).styled-scrollbars ::-webkit-scrollbar-thumb, body:not(.native-scrollbars) ::-webkit-scrollbar-thumb {
+
+    display: none;
+}
