@@ -4,110 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "abc712af22bbcf5c",
+        "id": "83ab987c8cf5b62a",
         "type": "tabs",
         "children": [
           {
-            "id": "fa161a2358997b5c",
+            "id": "2324129317259d32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "I3TMA4400 informert svar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "I3TMA4400 informert svar"
-            }
-          },
-          {
-            "id": "52c56d15b31ebb44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TMA4400.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TMA4400"
-            }
-          },
-          {
-            "id": "27cc351e0aa9d4a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test09 TMA4400.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "test09 TMA4400"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "5f90da8d48686c51",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3bcc261f3a505a65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test09 TMA4400.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "test09 TMA4400"
+              "title": "New tab"
             }
           }
         ]
@@ -169,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "62616baf207a383c",
@@ -185,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testNode1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for testNode1"
+              "title": "Backlinks"
             }
           },
           {
@@ -262,8 +169,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -286,26 +193,30 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3bcc261f3a505a65",
+  "active": "2324129317259d32",
   "lastOpenFiles": [
-    "Pasted image 20261025111005.png",
-    "test09 TMA4400.md",
-    "Pasted image 20261024220052.png",
-    "TMA4400.md",
-    "Pasted image 20261024212238.png",
-    "I3TMA4400 informert svar.md",
-    "ERT16 Op-ampens gyldne regler.md",
-    "Pasted image 20261024184737.png",
-    "Pasted image 20261024162658.png",
-    "Pasted image 20261024162645.png",
-    "Pasted image 20261024161902.png",
-    "Pasted image 20261024161303.png",
-    "Pasted image 20261024160258.png",
-    "OP-amps.md",
+    "Untitled.md",
+    "ERT17 Kondensator.md",
+    "Fysikk rundt energi i kretser (DRAFT).md",
+    "Elektronikk.md",
     "Matte.md",
+    "Pasted image 20261025173009.png",
+    "Pasted image 20261025170636.png",
+    "Pasted image 20261025165926.png",
+    "Pasted image 20261025165732.png",
+    "Pasted image 20261025141847.png",
+    "Pasted image 20261025141625.png",
+    "Pasted image 20261025141312.png",
+    "Pasted image 20261025140442.png",
+    "Pasted image 20261025130150.png",
+    "ERT16 Op-ampens gyldne regler.md",
+    "ERT-økter.md",
+    "I3TMA4400 informert svar.md",
+    "TMA4400.md",
+    "test09 TMA4400.md",
+    "Pasted image 20261025111005.png",
+    "OP-amps.md",
     "Innlevering 3 ligningsløsning (numerisk analyse) (2).md",
-    "Pasted image 20261024134423.png",
-    "Pasted image 20261024133805.png",
     "Untitled 1.base",
     "sdjfklsdjlfk.md",
     "Innlevering 3 ligningsløsning (numerisk analyse) (1).md",
@@ -324,8 +235,6 @@
     "ChatgtpReligionsamtaleSteg1.md",
     "CHAT hvordan øve til muntlig samtale.md",
     "Arch Linux notes.md",
-    "MITTSVAR_RELIGION_CHATOPPGGAVE_STEG1.md",
-    "Anotherfile.md",
     "Untitled.canvas"
   ]
 }

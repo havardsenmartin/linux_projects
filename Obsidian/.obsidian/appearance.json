@@ -3,8 +3,5 @@
   "cssTheme": "Tokyo Night",
   "baseFontSize": 24,
   "theme": "obsidian",
-  "enabledCssSnippets": [
-    "margins",
-    "remove_margins"
-  ]
+  "enabledCssSnippets": []
 }

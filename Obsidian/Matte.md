@@ -74,3 +74,60 @@ F)
 $$
 \frac{12a}{3}
 $$
+
+
+
+
+
+
+
+---
+## Oppgave fra Magniss
+
+
+### Finn verdi for ${}x{}$:
+
+$$
+5+(-1)\cdot\frac{2x}{8}=3
+$$
+$$
+\iff 5+ \frac{(-2x)}{8}=3
+$$
+$$
+\iff -2x=-2\cdot 8 \\
+\iff x=8
+$$
+$$
+-1\left(\frac{a}{b}\right)=\frac{-1a}{-1b} = \frac{a}{b}
+$$
+$$
+-1(a / b) = (-1a) / (-1b)
+$$
+
+
+$$
+12 \cdot \frac{5}{2} = (12 \cdot 5) / (2) \\
+= \frac{12\cdot 5}{2}
+$$
+$$
+A\cdot B\cdot C=(A\cdot B)\cdot C=A\cdot(B\cdot C)
+$$
+
+
+
+### Finn ${}x{}$
+$$
+8= \frac{3x+2}{3-x}
+$$
+
+
+
+
+
+
+
+
+
+
+
+
